@@ -3,7 +3,7 @@ package com.shall;
 public enum TokenType {
   // Single character tokens
   LEFT_PAREN, RIGHT_PAREN, LEFT_BRACE, RIGHT_BRACE,
-  COMMA, DOT, SEMI_COLON, PLUS, MINUS, SLASH, STAR,
+  COMMA, DOT, SEMICOLON, PLUS, MINUS, SLASH, STAR,
 
   // Pair-capable characters
   BANG, BANG_EQUAL,
